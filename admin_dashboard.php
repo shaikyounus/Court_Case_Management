@@ -67,8 +67,8 @@
     left:0;"> 
            
                <center>
-                   <p>Copyright &copy SK.MD.YOUNUS, G.TEJA REDDY ,D.SAI PRAVEEN , K.SARANYA, K.MOUNISH</a>  @All Rights Reserved.</p>
-                   <p>CLOUD COMPUTING PROJECT VITAP UNIVERSITY</p>
+                   <p>Copyright &copy SK.MD.YOUNUS</a>  @All Rights Reserved.</p>
+                   <p>Web Development,Cloud Computing PROJECT VITAP UNIVERSITY</p>
                </center>
                
            </footer>
